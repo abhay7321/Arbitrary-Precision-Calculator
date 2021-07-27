@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1604610932 source:c:\my c project\binarycalculator\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"List.h"
+	"Functions.h"
+
+1604581796 c:\my c project\binarycalculator\list.h
+
+1604581650 c:\my c project\binarycalculator\functions.h
+
+1604581819 source:c:\my c project\binarycalculator\list.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1604581777 source:c:\my c project\binarycalculator\stack.c
+	<stdlib.h>
+	"Stack.h"
+
+1604581739 c:\my c project\binarycalculator\stack.h
+	"List.h"
+
+1604682253 source:c:\my c project\binarycalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Stack.h"
+	"Functions.h"
+	<limits.h>
+
+1604785372 source:c:\users\dell\desktop\binarycalculator\stack.c
+	<stdlib.h>
+	"Stack.h"
+
+1604785372 c:\users\dell\desktop\binarycalculator\stack.h
+	"List.h"
+
+1604684685 c:\users\dell\desktop\binarycalculator\list.h
+
+1604685688 source:c:\users\dell\desktop\binarycalculator\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"List.h"
+	"Functions.h"
+
+1604744456 c:\users\dell\desktop\binarycalculator\functions.h
+
+1604785036 source:c:\users\dell\desktop\binarycalculator\list.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1604785230 source:c:\users\dell\desktop\binarycalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Stack.h"
+	"Functions.h"
+	<limits.h>
+
+1607446328 source:c:\users\dell\desktop\dsa_project_bc_calculator\list.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1607446328 c:\users\dell\desktop\dsa_project_bc_calculator\list.h
+
+1607446329 source:c:\users\dell\desktop\dsa_project_bc_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Stack.h"
+	"Functions.h"
+	<limits.h>
+
+1607446329 c:\users\dell\desktop\dsa_project_bc_calculator\stack.h
+	"List.h"
+
+1607446328 c:\users\dell\desktop\dsa_project_bc_calculator\functions.h
+
+1607446329 source:c:\users\dell\desktop\dsa_project_bc_calculator\stack.c
+	<stdlib.h>
+	"Stack.h"
+
+1607456584 source:c:\users\dell\desktop\dsa_project_bc_calculator\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"List.h"
+	"Functions.h"
+
